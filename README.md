@@ -31,14 +31,4 @@ Hey! I'm **Marcio**, a Brazilian 🇧🇷 **Senior DevOps Engineer**
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marciogabriel&show_icons=true&theme=radical" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciogabriel&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
 🧠 *Always learning, always automating.*
