@@ -32,12 +32,6 @@ Hey! I'm **Marcio**, a Brazilian 🇧🇷 **Senior DevOps Engineer**
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdvdHhtMXl4NjUwOWdpZGNwaW1lZXVwbTlvMnhrMWM0OHM2M2dwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q93uKqIEytf9O/giphy.gif" height="180" alt="CI/CD Punk">
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -49,7 +43,5 @@ Hey! I'm **Marcio**, a Brazilian 🇧🇷 **Senior DevOps Engineer**
 ---
 
 🧠 *Always learning, always automating.*
-
-🤘 *Let’s ship it. Let’s rock it.*
 
 ---
