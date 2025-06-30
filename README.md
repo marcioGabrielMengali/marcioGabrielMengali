@@ -1,16 +1,16 @@
-
 <h1 align="center">
   👨‍💻 Marcio Gabriel Mengali - Senior DevOps Engineer ⚙️🤘
 </h1>
-
 
 ---
 
 ### 🎸 About Me
 
-Hey! I'm **Marcio**, a Brazilian 🇧🇷 **Senior DevOps Engineer** 
+Hey! I'm **Marcio**, a Brazilian 🇧🇷 **Senior DevOps Engineer**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,linux,bash&theme=light" />
+  <br />
+  <img src="https://img.shields.io/badge/GenAI-%F0%9F%A7%AC-blueviolet?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI Badge"/>
 </p>
 
 ---
@@ -22,13 +22,14 @@ Hey! I'm **Marcio**, a Brazilian 🇧🇷 **Senior DevOps Engineer**
 - ☁️ **AWS**: EKS, EC2, Lambda, IAM, and more
 - 🧪 CI/CD with **GitHub Actions**, **GitLab CI**, **Jenkins**
 - 🔐 Secrets management, observability, GitOps
+- 🧠 Generative AI explorer — integrating automation with LLMs 🤖
 
 ---
 
 ### 📫 Reach Out Like a Rebel
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario/)  
-- 📧 marcio@example.com *(or your real email)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/m%C3%A1rcio-gabriel/)  
+- 📧 marciogabrieldevops@gmail.com
 
 ---
 
@@ -43,5 +44,3 @@ Hey! I'm **Marcio**, a Brazilian 🇧🇷 **Senior DevOps Engineer**
 ---
 
 🧠 *Always learning, always automating.*
-
----
