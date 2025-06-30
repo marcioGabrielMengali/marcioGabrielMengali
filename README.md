@@ -1,68 +1,55 @@
-<!-- GitHub Profile README - DevOps Punk Rock Style -->
 
 <h1 align="center">
   👨‍💻 Marcio Gabriel Mengali - Senior DevOps Engineer ⚙️🤘
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5kMHFoaDNrOXRrdnlhcGZtOXU3YTdodHF4djdtaHBuMHZvcDRnNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2pGU7B9C9tF3i/giphy.gif" height="150" alt="Rock'n Roll">
-</p>
 
 ---
 
 ### 🎸 About Me
 
-Hey! I'm **Marcio**, a Brazilian 🇧🇷 **Senior DevOps Engineer** who thrives at the intersection of code, automation, and infrastructure. I love shipping reliable software and playing riffs with tools like:
-
+Hey! I'm **Marcio**, a Brazilian 🇧🇷 **Senior DevOps Engineer** 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,linux,bash&theme=light" />
 </p>
 
 ---
 
-### ⚙️ My Stack (CI/CD Punk Edition)
+### ⚙️ My Stack (CI/CD)
 
-- 🐳 **Docker** & 🧊 Container orchestration (K8s)
+- 🐳 **Docker** & 🧊 Container orchestration (Kubernetes)
 - 🛠️ **Terraform** Infrastructure as Code master
-- ☁️ **AWS** everything: EKS, EC2, S3, Lambda, IAM
+- ☁️ **AWS**: EKS, EC2, Lambda, IAM, and more
 - 🧪 CI/CD with **GitHub Actions**, **GitLab CI**, **Jenkins**
-- 🔐 Secrets & policies? No worries – I handle that too!
-- 🧼 Clean code, monitoring, observability, and GitOps
-- 🤘 I turn bash into rock and YAML into poetry
-
----
-
-### 🔥 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🚀 **Microservice Pipeline Factory** | Automates and standardizes CI/CD pipelines for any service in under 10 min |
-| ☁️ **IaC Multi-Cloud Infra** | AWS + GCP infra provisioned via Terraform, with cost optimization & alerts |
-| 🎯 **Event-driven DevOps** | CI/CD pipeline with SQS, SNS, Step Functions, and chaos engineering 💥 |
+- 🔐 Secrets management, observability, GitOps
 
 ---
 
 ### 📫 Reach Out Like a Rebel
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario/)  
-- 🌐 [marciogabriel.dev](https://marciogabriel.dev) *(if available)*  
-- 📧 marcio@example.com *(or your professional email)*  
+- 📧 marcio@example.com *(or your real email)*  
 
 ---
 
-### 🖤 DevOps with a Punk Rock Spirit
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdvdHhtMXl4NjUwOWdpZGNwaW1lZXVwbTlvMnhrMWM0OHM2M2dwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q93uKqIEytf9O/giphy.gif" height="180" alt="CI/CD Punk">
+</p>
 
-> "Infrastructure as code, code as art, deploy like a riot!"
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdvdHhtMXl4NjUwOWdpZGNwaW1lZXVwbTlvMnhrMWM0OHM2M2dwciZlcD12MV9naWZ
+  <img src="https://github-readme-stats.vercel.app/api?username=marciogabriel&show_icons=true&theme=radical" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciogabriel&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+🧠 *Always learning, always automating.*
+
+🤘 *Let’s ship it. Let’s rock it.*
+
+---
