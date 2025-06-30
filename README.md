@@ -9,8 +9,6 @@
 Hey! I'm **Marcio**, a Brazilian 🇧🇷 **Senior DevOps Engineer**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,linux,bash&theme=light" />
-  <br />
-  <img src="https://img.shields.io/badge/GenAI-%F0%9F%A7%AC-blueviolet?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI Badge"/>
 </p>
 
 ---
