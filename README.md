@@ -1,71 +1,53 @@
-<h1 align="center">
-  🎸 Marcio Gabriel Mengali ⚙️
-</h1>
+<h1 align="center">🚀 Marcio Gabriel Mengali</h1>
 
 <p align="center">
-  <b>Senior Software Engineer</b><br/>
-  <i>Code. Deploy. Rock On. 🤘</i><br/>
-  <i>Node.js | NestJS | TypeScript | AWS | Docker | Kubernetes | CI/CD</i>
+  <b>Senior DevOps Engineer</b><br>
+  Focused on deployment, scalability, and cloud automation.
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0f0f0f&height=150&section=header&text=Rocking%20Code%20Since%20Day%20One&fontColor=ffffff&fontSize=25" />
-</div>
+---
+
+### 👋 About Me
+
+I'm Marcio Gabriel, a **Senior DevOps & Cloud Engineer** with a strong focus on **deployment automation**, **cloud-native infrastructure**, and **CI/CD lifecycle management**. I specialize in building robust, scalable environments for high-availability applications.
+
+🔧 **What I do best:**
+- Deploying and maintaining scalable infrastructure in **AWS**
+- Automating infrastructure using **Terraform**
+- Managing containers with **Docker** and **Kubernetes**
+- Building fast, secure **CI/CD pipelines**
+- Ensuring production stability and performance in cloud environments
 
 ---
 
-## 🎧 About Me
+### 🛠️ Tech Stack & Tools
 
-Hey! I'm **Marcio Gabriel**, a passionate backend engineer who thrives on building scalable systems and shipping code that works like a killer riff.
-
----
-
-## ⚒️ Tech Stack
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
-  &nbsp;&nbsp;
-  <img src="https://nestjs.com/img/logo-small.svg" height="50" alt="NestJS" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" height="50" alt="AWS" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="Kubernetes" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="50" alt="GitHub" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" alt="GitLab"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/>
+</p>
 
 ---
 
-## 🚀 What I Do
+### 📊 GitHub Stats
 
-- 🧠 Architect backend services in **Node.js** and **NestJS**
-- 🛠️ Build secure, scalable APIs with **TypeScript**
-- ☁️ Deploy serverless and containerized apps on **AWS**
-- 🐳 Docker and **Kubernetes** for smooth ops
-- 🔁 Automate everything using **CI/CD pipelines**
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcio%20Gabriel-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A1rcio-gabriel/)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-marciogabrielmengali-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marciogabrielmengali)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-marciogabrielmengali@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciogabrielmengali@gmail.com)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marciogabriel&show_icons=true&theme=dark&hide_title=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciogabriel&layout=compact&theme=dark" height="170">
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=100&section=footer" />
-</div>
+### 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/m%C3%A1rcio-gabriel/)
+
+---
+
+> “Reliable deployment is not a phase. It’s a mindset.”
