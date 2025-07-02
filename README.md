@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Marcio Gabriel Mengali</h1>
 
 <p align="center">
-  <b>Senior DevOps Engineer</b><br>
+  <b>Senior DevOps  Engineer</b><br>
   Focused on deployment, scalability, and cloud automation.
 </p>
 
@@ -23,13 +23,7 @@ I'm Marcio Gabriel, a **Senior DevOps Engineer** with a strong focus on **deploy
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" alt="Terraform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" alt="GitLab" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,github,gitlab,linux&theme=light" height="50" />
 </p>
 
 ---
