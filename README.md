@@ -32,7 +32,6 @@ I'm Marcio Gabriel, a **Senior DevOps Engineer** with a strong focus on **deploy
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcioGabrielMengali&show_icons=true&theme=dark&hide_title=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcioGabrielMengali&layout=compact&theme=dark" height="170" />
 </p>
 
 ---
