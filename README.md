@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Marcio Gabriel Mengali -->
 
 <h1 align="center">Hi 👋, I'm Marcio Gabriel Mengali</h1>
-<h3 align="center">Senior DevOps Engineer | Software Engineer | Cloud & Backend Specialist</h3>
+<h3 align="center">Senior Software Engineer | Devops Engineer | Backend </h3>
 
 <p align="center">
   <a href="mailto:marciogabrielmengali@gmail.com">
