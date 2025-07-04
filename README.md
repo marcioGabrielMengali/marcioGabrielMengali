@@ -47,23 +47,15 @@ In previous roles as a Senior Data Analyst, I built and optimized **data warehou
 ## 🔧 Tools I Use
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  &nbsp;
-  <img src="https://nestjs.com/img/logo-small.svg" height="40" alt="NestJS" />
-  &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" height="40" alt="AWS" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CI/CD-blue.svg?style=flat&logo=githubactions&logoColor=white" height="28" alt="CI/CD"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/GenAI-%23795ef0.svg?style=flat&logo=openai&logoColor=white" height="28" alt="GenAI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40" alt="NestJS" />
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="40" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" />
+  <img src="https://img.shields.io/badge/CI/CD-blue.svg?style=flat&logo=githubactions&logoColor=white" width="80" height="28" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/GenAI-%23795ef0.svg?style=flat&logo=openai&logoColor=white" width="80" height="28" alt="GenAI"/>
 </p>
 
 ---
