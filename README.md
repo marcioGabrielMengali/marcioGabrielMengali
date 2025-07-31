@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Marcio Gabriel Mengali -->
 
 <h1 align="center">Hi 👋, I'm Marcio Gabriel Mengali</h1>
-<h3 align="center">Senior Software Engineer | Devops Engineer | Backend </h3>
+<h3 align="center">Senior Software Engineer | Backend </h3>
 
 <p align="center">
   <a href="mailto:marciogabrielmengali@gmail.com">
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I’m **Marcio Gabriel Mengali**, a Senior DevOps and Software Engineer with deep experience in backend development, cloud infrastructure, and large-scale system design. My work focuses on building high-performance, resilient, and scalable backend services using modern technologies like **Node.js**, **NestJS**, **TypeScript**, and **AWS**.
+I’m **Marcio Gabriel Mengali**, a Senior Software Engineer with deep experience in backend development, cloud infrastructure, and large-scale system design. My work focuses on building high-performance, resilient, and scalable backend services using modern technologies like **Node.js**, **NestJS**, **TypeScript**, and **AWS**.
 
 At **Afinz**, I develop and maintain mission-critical REST APIs for core banking systems, leveraging **serverless architecture** to maximize scalability and reduce operational overhead. I implement best practices in software engineering, including clean architecture, modular design, automated testing, and performance tuning.
 
